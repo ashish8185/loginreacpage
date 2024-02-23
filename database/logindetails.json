@@ -1,5 +1,14 @@
 {
   "login": [
-    
+    {
+      "username": "ashish",
+      "password": "ranjan",
+      "id": 1
+    },
+    {
+      "username": "xyz",
+      "password": "abc",
+      "id": 2
+    }
   ]
 }
